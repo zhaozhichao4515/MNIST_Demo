@@ -10,13 +10,7 @@
 
 ### 开始：
 
-
-
-​        git clone  https://github.com/zhaozhichao4515/MNIST_Demo
-
-​        cd MNIST_Demo
-
-​        ipython notebook  MNIST_Tensorflow.ipynb 
-
-​     
+    git clone https://github.com/zhaozhichao4515/MNIST_Demo
+    cd MNIST_Demo
+    ipython notebook  MNIST_Tensorflow.ipynb    
 
